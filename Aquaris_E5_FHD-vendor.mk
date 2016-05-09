@@ -4,7 +4,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/bq/Aquaris_E5_FHD/p
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/bq/Aquaris_E5_FHD/proprietary/lib,system/lib)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/bq/Aquaris_E5_FHD/priv-app,system/priv-app)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/bq/Aquaris_E5_FHD/proprietary/priv-app,system/priv-app)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/bq/Aquaris_E5_FHD/proprietary/xbin,system/xbin)
 
